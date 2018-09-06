@@ -9,5 +9,10 @@ public class Subtraction {
 	{
 		return a-b;
 	}
+	public static long subtract(long a, long  b)
+	{
+		return a-b;
+	}
+	
 
 }
