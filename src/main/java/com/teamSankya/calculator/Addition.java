@@ -6,7 +6,7 @@ public class Addition {
 		return a+b;
 	}
 	public static double add(double a,double b)
-	{System.out.println(a+b);
+	{System.out.println("value is " +a+b);
 		return a+b;
 		
 	}
