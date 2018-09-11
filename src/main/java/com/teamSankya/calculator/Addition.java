@@ -9,6 +9,8 @@ public class Addition {
 	
 	{
 		System.out.println(a);
+		System.out.println(b);
+
 		System.out.println("value is " +a+b);
 		return a+b;
 		
