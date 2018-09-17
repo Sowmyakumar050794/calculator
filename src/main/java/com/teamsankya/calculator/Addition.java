@@ -1,6 +1,7 @@
-package com.teamSankya.calculator;
+package com.teamsankya.calculator;
 
 public class Addition {
+	
 	public static int add(int a, int  b)
 	{
 		return a+b;
@@ -16,5 +17,6 @@ public class Addition {
 		
 	}
 	//overload with long n double methods n call in test class
+
 
 }
